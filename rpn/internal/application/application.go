@@ -1,6 +1,6 @@
 package application
 
-import "github.com/aivanov/game/pkg/rpn"
+import "github.com/AKKuchin/game/pkg/rpn"
 
 package application
 
